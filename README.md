@@ -1,6 +1,6 @@
 # vue-cli-template-vant
 
-> vue-cli template for vant;
+> vue-cli template for app-engine;
 
 ## Usage
 
